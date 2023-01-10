@@ -6,7 +6,7 @@ This project explores the world of video games and their sales data. Exploratory
 
 ### This repo includes the following:
 
-- "_vgsales.csv_" - Raw CSV file containing Perth house sales data sourced from [here](https://www.kaggle.com/datasets/gregorut/videogamesales).
+- "_vgsales.csv_" - Raw CSV file containing sales data of popular video games sourced from [here](https://www.kaggle.com/datasets/gregorut/videogamesales).
 
 - "_Video Game Sales Data (Clean).csv_" - The pre-processed dataset with missing values addressed.
 
